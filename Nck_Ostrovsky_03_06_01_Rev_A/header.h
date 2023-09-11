@@ -15,3 +15,4 @@ double divide_1_2()
 ;
 double divide_2_1()
 ;
+double exponentiation();

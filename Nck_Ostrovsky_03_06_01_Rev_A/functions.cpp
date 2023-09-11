@@ -1,4 +1,5 @@
 #include <iostream>
+#include<math.h>
 #include "header.h"
 
 
@@ -41,6 +42,9 @@
     {
         return (num2 / num1);
     }
-
+    double exponentiation()
+    {
+    return pow(num1 , num2);
+    }
 
    
